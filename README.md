@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArthNote
+- 👋 Hi, I’m @Note
 - 👀 I’m interested in Game Developement
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on some intresting things in the future
