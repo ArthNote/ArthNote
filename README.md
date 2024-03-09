@@ -63,9 +63,7 @@
 
 ###
 
-<img align="right" height="190" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmc0MWFhOHk3cGE5cGZ1Z3J2eGFwcnEwZWd2cnQ0YnJqdjU5bm1uaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVWuLuV1JESZJdebkI/giphy.gif"  />
 
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ArthNote&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -74,8 +72,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ArthNote/ArthNote/output/snake.svg" alt="Snake animation" />
+<img align="right" height="190" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmc0MWFhOHk3cGE5cGZ1Z3J2eGFwcnEwZWd2cnQ0YnJqdjU5bm1uaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVWuLuV1JESZJdebkI/giphy.gif"  />
 
 ###
+
