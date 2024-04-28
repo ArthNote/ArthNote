@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Hi 👋! My name is Yassine and I'm a Software Engineer, from Morocco.</p>
+<p align="left">I like Web & Mobile development!</p>
 
 ###
 
