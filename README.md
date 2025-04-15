@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Productivity personal assistant**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react, flutter, spring boot**
+- 💬 Ask me about **react, flutter, express**
 
 - 📫 How to reach me **moussaidyassinee@gmail.com**
 
